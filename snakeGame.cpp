@@ -117,7 +117,7 @@ int main(){
         gameRender(name);
         userInput();
         updateGame();
-        Sleep(9006);
+        Sleep(2000);
     }
     return 0;
 }
